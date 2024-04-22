@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Blog de la Champions League 2023/2024 *Elaborado por ana rodriguez*
+Blog de cantabria *Elaborado por ana rodriguez*
