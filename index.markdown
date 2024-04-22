@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Blog de la Champions League 2023/2024 *Elaborado por David Pelaez*
+Blog de la Champions League 2023/2024 *Elaborado por ana rodriguez*
